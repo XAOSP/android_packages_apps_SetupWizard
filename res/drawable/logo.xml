@@ -3,15 +3,44 @@
      SPDX-FileCopyrightText: 2017-2022 The LineageOS Project
      SPDX-License-Identifier: Apache-2.0
 -->
-<vector xmlns:android="http://schemas.android.com/apk/res/android"
-    android:width="512dp"
-    android:height="260dp"
-    android:viewportWidth="512"
-    android:viewportHeight="260">
-
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt"
+    android:viewportWidth="432"
+    android:viewportHeight="432"
+    android:width="432dp"
+    android:height="432dp">
     <path
-        android:fillColor="@color/lineage_accent"
-        android:pathData="M416,128a39.92,39.92,0,0,0-31.11,14.87l-1.5-.6A294.79,294.79,0,0,0,336,128.14s0-.09,0-.14a80,80,0,1,0-160,0s0,.09,0,.13l-1.72
-.38 a293.48,293.48,0,0,0-45.67,13.76l-1.5 .6
-a40,40,0,1,0,7.39,14.28h0a277.33,277.33,0,0,1,43.1-13,80,80,0,0,0,156.73,0,277.3,277.3,0,0,1,43.11,13h0A40,40,0,1,0,416,128ZM96,192a24,24,0,1,1,24-24A24,24,0,0,1,96,192Zm160,0a64,64,0,1,1,64-64A64.07,64.07,0,0,1,256,192Zm160,0a24,24,0,1,1,24-24A24,24,0,0,1,416,192ZM288,128a32,32,0,1,1-32-32A32,32,0,0,1,288,128Z" />
+        android:pathData="M85.5 192L96.5 192L98 193.5L108.5 209L119 192L131 192.5L115 215.5L132 239.5L121.5 240L109 222L106 223.5L95.5 240L84 239.5L101 216.5L101 213.5L85.5 192Z"
+        android:fillColor="#070707"
+        android:fillAlpha="0.8705882"
+        android:strokeColor="#070707"
+        android:strokeAlpha="0.8705882"
+        android:strokeWidth="1" />
+    <path
+        android:pathData="M145.5 192L183 192L183 240L173 240L173 227L151 227L151 240L141 240L141 196.5L145.5 192ZM151 200L152 222L156 218L173 218L173 200L151 200Z"
+        android:fillColor="#070707"
+        android:fillAlpha="0.8705882"
+        android:strokeColor="#070707"
+        android:strokeAlpha="0.8705882"
+        android:strokeWidth="1" />
+    <path
+        android:pathData="M203.5 192L237.5 192L240 194.5L241 196.5L241 235.5L238.5 239L236.5 240L204.5 240L201 237.5L199 232.5L199 199.5L200 195.5L203.5 192ZM209 200L209 232L232 232L232 200L209 200Z"
+        android:fillColor="#070707"
+        android:fillAlpha="0.8705882"
+        android:strokeColor="#070707"
+        android:strokeAlpha="0.8705882"
+        android:strokeWidth="1" />
+    <path
+        android:pathData="M260.5 192L291.5 192L292 192.5L292 200L266 200L266 211L284.5 211L290 214.5L292 218.5L292 233.5L288.5 239L286.5 240L256 240L256 232.5L256.5 232L282 232L282 220L260.5 220L257 216.5L256 214.5L256 197.5L260.5 192Z"
+        android:fillColor="#070707"
+        android:fillAlpha="0.8705882"
+        android:strokeColor="#070707"
+        android:strokeAlpha="0.8705882"
+        android:strokeWidth="1" />
+    <path
+        android:pathData="M307 192L343.5 192L347 194.5L349 198.5L349 219.5L344.5 226L342.5 227L316 227L316 240L307 240L307 205.5L311 200L307 200L307 192ZM316 200L317 222L321 218L339 218L339 200L316 200Z"
+        android:fillColor="#070707"
+        android:fillAlpha="0.8705882"
+        android:strokeColor="#070707"
+        android:strokeAlpha="0.8705882"
+        android:strokeWidth="1" />
 </vector>
